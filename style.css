@@ -101,7 +101,3 @@ body {
 .chat-input button[type="submit"]:hover {
   background-color: #007FFF;
 }
-
-body {
-  background: pink;
-}
